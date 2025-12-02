@@ -1,0 +1,41 @@
+div>p {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: lightgreen;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+
+#idFirst {
+    background-color: pink;
+}
+
+[title="titleFirst"] {
+    background-color: orange;
+}
+
+.spanInDiv span {
+    background-color: lightcoral;
+}
+
+ul>li {
+    background-color: violet;
+}
+
+.my.homework {
+    background-color: gold;
+}
+
+p.red {
+    background-color: red;
+    color: white;
+}
+
+#myLastTask p {
+    background-color: aquamarine;
+}
